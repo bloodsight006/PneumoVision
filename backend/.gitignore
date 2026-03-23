@@ -1,0 +1,10 @@
+serviceAccountKey.json
+__pycache__/
+*.pyc
+dataset/
+dataset_flat/
+raw_dataset/
+*.zip
+.venv/
+venv/
+xray_model.h5
