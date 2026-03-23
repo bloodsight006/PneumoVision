@@ -1,0 +1,12 @@
+serviceAccountKey.json
+xray_model.h5
+dataset/
+dataset_flat/
+raw_dataset/
+__pycache__/
+*.pyc
+*.zip
+.venv/
+venv/
+backend/.venv/
+backend/venv/
