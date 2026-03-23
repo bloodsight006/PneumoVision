@@ -32,11 +32,11 @@ try:
         firebase_admin.initialize_app(cred)
         db = firestore.client()
         firebase_enabled = True
-        print("✅ Firebase connected")
+        print(" Firebase connected")
     else:
-        print("⚠️  serviceAccountKey.json not found — Firebase disabled")
+        print("  serviceAccountKey.json not found — Firebase disabled")
 except Exception as e:
-    print(f"⚠️  Firebase init failed: {e}")
+    print(f"  Firebase init failed: {e}")
 
 app = FastAPI(title="PneumoVision API", version="2.0.0")
 
@@ -51,7 +51,7 @@ app.add_middleware(
 # Load model once at startup
 print("Loading DenseNet121 model...")
 model = load_xray_model()
-print("✅ Model ready")
+print(" Model ready")
 
 
 def encode_image_bgr(img_bgr: np.ndarray) -> str:
