@@ -108,3 +108,15 @@ COVID-19 Radiography Database — [Kaggle](https://www.kaggle.com/datasets/tawsi
 - Validation AUC of 0.947 indicates strong class separation ability even at 80.2% raw accuracy
 - Full Phase 2 fine-tuning on GPU is expected to push accuracy to 95%+
 - Model was trained on CPU (Intel Core i7 13th Gen) with Phase 1 training only
+
+<img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/6a7792af-2eb1-44b3-9a86-180fba9edc26" />
+<img width="1915" height="1017" alt="image" src="https://github.com/user-attachments/assets/bc1c3940-4da4-446e-994b-ac6e646608ad" />
+<img width="1915" height="912" alt="image" src="https://github.com/user-attachments/assets/87ab3153-e754-4fad-a476-2b3643ad0bb8" />
+<img width="1917" height="962" alt="image" src="https://github.com/user-attachments/assets/e89c78e4-4587-43eb-9d4d-a16f1a908262" />
+<img width="1915" height="962" alt="image" src="https://github.com/user-attachments/assets/b8c5a04c-1a15-4a06-8a4a-8d32756312a5" />
+<img width="1897" height="963" alt="image" src="https://github.com/user-attachments/assets/4bc1ca08-aeae-4e1e-8e1d-bede0846b207" />
+
+
+
+
+
